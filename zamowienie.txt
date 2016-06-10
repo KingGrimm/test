@@ -2,7 +2,7 @@ http://store.steampowered.com/app/6550/         5
 http://store.steampowered.com/app/364930/	1
 http://store.steampowered.com/app/339800/       3,4
 http://store.steampowered.com/app/359050/	0,75
-http://store.steampowered.com/app/245170/	3
+http://store.steampowered.com/app/245170/	5
 http://store.steampowered.com/app/313740	5
 _______________________________________________
 						16,15E => 60z?
